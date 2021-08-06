@@ -6,4 +6,4 @@ Objetivo da análise: Identificar os clientes que estão satisfeitos ou insatisf
 
 OBS: Esse é um projeto da formação Cientista de dados da Data Science Academy
 
-Quer saber mais? Acesse a documentação do projeto: xxx
+Quer saber mais? Acesse a documentação do projeto: https://luizfmello01.github.io/Projeto03_PrevendoNivelDeSatisfacao/
