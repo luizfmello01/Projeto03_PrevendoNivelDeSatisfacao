@@ -4,4 +4,6 @@ A satisfação do cliente é uma medida fundamental de sucesso. Clientes insatis
 
 Objetivo da análise: Identificar os clientes que estão satisfeitos ou insatisfeitos com sua experiência bancária. Após a entrega do produto o banco podera identificar os clientes insatisfeitos no início do relacionamento, permitindo que o Santander adote uma medida proativa para melhorar a felicidade do cliente e não perde-lo para concorrência.
 
+OBS: Esse é um projeto da formação Cientista de dados da Data Science Academy
+
 Quer saber mais? Acesse a documentação do projeto: xxx
